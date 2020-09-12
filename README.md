@@ -19,12 +19,13 @@ Somos un equipo de estudiantes de programación de la Universidad Nacional de Qu
 
 ## Entregas
 
-* [Entrega prueba de concepto](https://github.com/devitunq/DEVit-Documentacion/milestone/1)
+* [Pruebas de concepto](https://github.com/devitunq/DEVit-Documentacion/wiki/Prueba-de-concepto)
 
-* [Entrega numero 1](https://github.com/devitunq/DEVit-Documentacion/milestone/2)
+* [Entregas 1](https://github.com/devitunq/DEVit-Documentacion/wiki/Entrega-1)
 
-* [Entrega numero 2](https://github.com/devitunq/DEVit-Documentacion/milestone/3)
+* [Entregas 2](https://github.com/devitunq/DEVit-Documentacion/wiki/Entrega-2)
 
-* [Entrega numero 3](https://github.com/devitunq/DEVit-Documentacion/milestone/4)
+* [Entregas 3](https://github.com/devitunq/DEVit-Documentacion/wiki/Entrega-3)
 
-* [Entrega numero 4](https://github.com/devitunq/DEVit-Documentacion/milestone/5)
+* [Entregas 4](https://github.com/devitunq/DEVit-Documentacion/wiki/Entrega-4)
+
