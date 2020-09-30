@@ -4,7 +4,11 @@
 
 # ¿Quiénes somos?
 
-Somos un equipo de estudiantes de programación de la Universidad Nacional de Quilmes, los cuales decimos encarar un proyecto para que los allegados al tema puedan aprender, y al mismo tiempo divertirse.  
+Somos un equipo de estudiantes de programación de la Universidad Nacional de Quilmes, los cuales decimos encarar un proyecto para que los allegados al tema puedan aprender, y al mismo tiempo divertirse.
+
+[Click aqui para acceder a nuestra wiki](https://github.com/devitunq/DEVit-Documentacion/wiki)
+
+
 
 ## Objetivos
 -   Lograr que los usuarios se lleven una base de programación y la lógica de la misma. 
